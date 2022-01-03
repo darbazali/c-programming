@@ -1,10 +1,10 @@
 /* 
     C && C++ - How to program 
-    @ Chapter 1
-    @ program: ch_02_01
-    @ file: welcome.c
-    @ auther: Darbaz Ali
-    @ date: Jan 3, 2022
+    @chapter 1
+    @program: ch_02_01
+    @file: welcome.c
+    @auther: Darbaz Ali
+    @date: Jan 3, 2022
  */
 
 // Print a simple message to the terminal
