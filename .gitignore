@@ -1,0 +1,13 @@
+# ignroe everything
+*
+
+# unignore everything with extentions
+!*.*
+
+# unignore these directories
+!/ch_02
+!/ch_03
+!/ch_04
+
+# unignore everything inside dirs with extentions
+!*/*.c
