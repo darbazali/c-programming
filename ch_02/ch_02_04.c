@@ -27,6 +27,9 @@
     // print Thsi sis a C program in sperate linse
     printf("This\n is\n a\n C\n program\n");
 
+    // print This is a C program with the workds sperated by tabs
+    printf("This\t is\t a\t C\t program\n");
+
  }
 
 
