@@ -19,6 +19,11 @@
     // 3) read a value from keyboard
     scanf("%d", &a);
 
+    // check of number is equal to 7
+    if (a != 7) {
+        printf("%d is not equal to 7", a);
+    }
+
  }
 
 
