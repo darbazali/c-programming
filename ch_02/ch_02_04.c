@@ -9,27 +9,28 @@
 
  #include <stdio.h>
 
+// function main begins program execution
  int main (void) {
-    // 1) Define 4 vairables of type int
-    int a, b, c, d;
+    //  wiret a program to calcultea the product of three numbers
 
-    // 2) prompt a user to enter a number
-    printf("Enter a number: ");
+    int a, b, c;
 
-    // 3) read a value from keyboard
+    // prompt to get first integer
+    printf("Enter the first integer \n");
     scanf("%d", &a);
 
-    // check of number is equal to 7
-    if (a != 7) {
-        printf("%d is not equal to 7", a);
-    }
+    // prompt user to enter second integer
+    printf("Enter the second integer \n");
+    scanf("%d", &b);
 
-    // print Thsi sis a C program in sperate linse
-    printf("This\n is\n a\n C\n program\n");
+    // prompt the user to ener third integer
+    printf("Enter the third integer \n");
+    scanf("%d", &c);
 
-    // print This is a C program with the workds sperated by tabs
-    printf("This\t is\t a\t C\t program\n");
+    int product = a * b * c;
 
+    printf("The product of %d, %d, and %d is %d \n", a, b, c, product);
+ 
  }
 
 
