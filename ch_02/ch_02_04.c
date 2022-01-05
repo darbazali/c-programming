@@ -24,6 +24,9 @@
         printf("%d is not equal to 7", a);
     }
 
+    // print Thsi sis a C program in sperate linse
+    printf("This\n is\n a\n C\n program\n");
+
  }
 
 
