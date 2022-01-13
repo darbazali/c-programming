@@ -58,16 +58,16 @@ int main(void)
 
         // if result is 1, increament passes
         if ( result == 1) {
-            passes = passes + 1;
+            passes += 1;
         }
 
         // else, increament failures
         else {
-            failures = failures + 1;
+            failures +=1;
         }
 
         // increament counter in either cases
-        student = student +1;
+        student++;
 
     } // end while
 
