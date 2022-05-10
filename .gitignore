@@ -5,9 +5,7 @@
 !*.*
 
 # unignore these directories
-!/ch_02
-!/ch_03
-!/ch_04
+!/chapter02
 
 # unignore everything inside dirs with extentions
 !*/*.c
