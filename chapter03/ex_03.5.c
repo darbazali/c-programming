@@ -17,4 +17,3 @@ int main(void){
 	// termination phase
 	printf("Counter is %d \n", counter);
 } // end function main
-
